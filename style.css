@@ -1,0 +1,31 @@
+body{
+    background-color:rgb(135, 222, 139);
+    
+}
+h3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; text-align: center
+}
+a{
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; text-align: left; color: darkred; padding: 15px; background-color:rgb(62, 94, 254); display: inline; width: 100px;
+    text-align: center;margin: 5px; color: #f00; border-radius: 5px; text-decoration:none ; font-family: cursive;
+}
+a:visited{
+    color:rgb(0, 0, 0);
+}
+a:hover{
+    background-color: black;color: azure;border: 2px solid rgb(244, 166, 244);
+}
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; text-align: center;animation: infinite;
+}
+p{
+    font-size: medium; font-family: Arial, Helvetica, sans-serif; text-align: center;
+}
+figcaption{
+    font-family: monospace;font-size:medium
+}
+
+
+hr{
+    width: 15000px;background-color: black;
+}

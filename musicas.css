@@ -1,0 +1,22 @@
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+body{
+    background-color: rgba(209, 160, 255, 0.836);
+} 
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a{
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; text-align: left; color: darkred; padding: 15px; background-color:rgb(62, 94, 254); display:flexbox; width: 100px;
+    text-align: center;margin: 5px; color: #f00; border-radius: 5px; text-decoration:none ; font-family: cursive;
+}
+a:visited{
+    color:rgb(0, 0, 0);
+}
+a:hover{
+    background-color: rgb(12, 12, 12);color: azure;border: 2px solid rgb(0, 174, 255);
+}
+controls{
+   background-color: cadetblue;
+}
